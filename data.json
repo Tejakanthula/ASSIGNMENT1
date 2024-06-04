@@ -1,0 +1,32 @@
+{
+    "hero": {
+        "title": "Make The Best Financial Decisions",
+        "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arou Lorem Porttitor.",
+        "buttons": [
+            {
+                "text": "Get Started",
+                "type": "primary",
+                "link": "#"
+            },
+            {
+                "text": "Watch Video",
+                "type": "secondary",
+                "link": "#"
+            }
+        ]
+    },
+    "features": [
+        {
+            "title": "Budgeting Intervals",
+            "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arou Lorem Porttitor."
+        },
+        {
+            "title": "Budgeting Intervals",
+            "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arou Lorem Porttitor."
+        },
+        {
+            "title": "Budgeting Intervals",
+            "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arou Lorem Porttitor."
+        }
+    ]
+}
